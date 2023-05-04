@@ -15,44 +15,35 @@ MyCampus is a social networking app developed with Flutter, Flask, and Firebase.
 * Firebase
 
 ## Screenshots
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
-  <div>
-    <img src="assets/screenshots/Welcome_Page.png" width="250" alt="Welcome Page">
-    <p><em>Figure 1: Welcome Page</em></p>
-  </div>
 
-  <div>
-    <img src="assets/screenshots/Login_Page.png" width="250" alt="Login Page">
-    <p><em>Figure 2: Login Page</em></p>
-  </div>
-
-  <div>
-    <img src="assets/screenshots/Sign_Up_Page.png" width="250" alt="Sign Up Page">
-    <p><em>Figure 3: Sign Up Page</em></p>
-  </div>
-
-  <div>
-    <img src="assets/screenshots/Personality_Page.png" width="250" alt="Personality Page">
-    <p><em>Figure 4: Personality Page</em></p>
-  </div>
-
-  <div>
-    <img src="assets/screenshots/Lifestyle_Page.png" width="250" alt="Lifestyle Page">
-    <p><em>Figure 5: Lifestyle Page</em></p>
-  </div>
-
-  <div>
-    <img src="assets/screenshots/Home_Screen_Page.png" width="250" alt="Home Page">
-    <p><em>Figure 6: Home Page</em></p>
-  </div>
-
-  <div>
-    <img src="assets/screenshots/Finding_Matches_Page.png" width="250" alt="Finding Matches Page">
-    <p><em>Figure 7: Finding Matches Page</em></p>
-  </div>
-
-  <div>
-    <img src="assets/screenshots/Chat_Page.png" width="250" alt="Chat Page">
-    <p><em>Figure 8: Chat Page</em></p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>Welcome Page</td>
+     <td>Login Page</td>
+     <td>Sign Up Page</td>
+     
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/screenshots/Welcome_Page.png" width="250" alt="Welcome Page"></td>
+    <td valign="top"><img src="assets/screenshots/Login_Page.png" width="250" alt="Login Page"></td>
+    <td valign="top"><img src="assets/screenshots/Sign_Up_Page.png" width="250" alt="Sign Up Page"></td>
+  </tr>
+  <tr>
+    <td>Personality Page</td>
+    <td>Lifestyle Page</td>
+    <td>Home Page</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/screenshots/Personality_Page.png" width="250" alt="Personality Page"></td>
+    <td valign="top"><img src="assets/screenshots/Lifestyle_Page.png" width="250" alt="Lifestyle Page"></td>
+    <td valign="top"><img src="assets/screenshots/Home_Screen_Page.png" width="250" alt="Home Page"></td>
+  </tr>
+  <tr>
+    <td>Finding Matches Page</td>
+     <td>Chat Page</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/screenshots/Finding_Matches_Page.png" width="250" alt="Finding Matches Page"></td>
+    <td valign="top"><img src="assets/screenshots/Chat_Page.png" width="250" alt="Chat Page"></td>
+  </tr>
+ </table>
