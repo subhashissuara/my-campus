@@ -1,0 +1,86 @@
+questionIndex 1
+question You feel most energetic and focused in the morning.
+
+questionIndex 2
+question You feel most energetic and focused during the afternoon and early evening.
+
+questionIndex 3
+question You feel most energetic and focused late at night.
+
+questionIndex 4
+question When you walk, you tend to do it fairly fast, with long steps.
+
+questionIndex 5
+question When you walk, you tend to do it fairly fast, with small steps.
+
+questionIndex 6
+question When you walk, you tend to do it less fast, head up, looking the world in the face.
+
+questionIndex 7
+question When you walk, you tend to do it less fast, head down.
+
+questionIndex 8
+question When you walk, you tend to do it very slowly.
+
+questionIndex 9
+question When you speak to people, you tend to stand with your arms folded.
+
+questionIndex 10
+question When you speak to people, you tend to have your hands clasped.
+
+questionIndex 11
+question When you speak to people, you tend to touch or push the person to whom you are talking.
+
+questionIndex 12
+question When you speak to people, you tend to play with your ear or hair, touch your chin, or smooth your hair.
+
+questionIndex 13
+question When you’re relaxed, you usually sit with your knees bent, with your legs neatly side by side.
+
+questionIndex 14
+question When you’re relaxed, you usually sit with your legs crossed.
+
+questionIndex 15
+question When you’re relaxed, you usually sit with your legs stretched out or straight.
+
+questionIndex 16
+question When you find something really funny, you usually give a big, appreciative laugh.
+
+questionIndex 17
+question When you find something really funny, you usually give a laugh, but not a loud one.
+
+questionIndex 18
+question When you find something really funny, you usually give a quiet chuckle.
+
+questionIndex 19
+question When you find something really funny, you usually give a sheepish smile.
+
+questionIndex 20
+question When you enter a party or social gathering, you tend to make a loud entrance, so that everyone notices you.
+
+questionIndex 21
+question When you enter a party or social gathering, you tend to make a quiet entrance, looking around for someone you know.
+
+questionIndex 22
+question When you enter a party or social gathering, you tend to make the quietest entrance, trying to stay unnoticed.
+
+questionIndex 23
+question If you’re focused on a task and you’re interrupted, you’re likely to welcome the break.
+
+questionIndex 24
+question If you’re focused on a task and you’re interrupted, you’re likely to feel extremely irritated.
+
+questionIndex 25
+question Before you fall asleep, you’re usually lying stretched out on your back.
+
+questionIndex 26
+question Before you fall asleep, you’re usually lying stretched out face down on your stomach.
+
+questionIndex 27
+question Before you fall asleep, you’re usually lying on your side, slightly curled.
+
+questionIndex 28
+question Before you fall asleep, you’re usually lying with your head on one arm.
+
+questionIndex 29
+question Before you fall asleep, you’re usually lying with your head under the covers.
